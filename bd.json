@@ -1,0 +1,13 @@
+[
+  {
+    "nome": "Paulo",
+    "email": "paulo@gmail.com",
+    "cpf": "12345678910",
+    "endereco": {
+      "cep": "12345678",
+      "rua": "Rua A",
+      "bairro": "Centro",
+      "cidade": "Salvador"
+    }
+  }
+]
